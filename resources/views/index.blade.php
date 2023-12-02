@@ -1,12 +1,12 @@
 @extends('layouts.default')
 @section('content')
 
-    <div class="hero-wrap js-fullheight" style="background-image: url('vendor/technext/vacation-rental/images/bg_1.jpg');" data-stellar-background-ratio="0.5">
+    <div class="hero-wrap js-fullheight" style="background-image: url(https://feb.undip.ac.id/wp-content/uploads/2021/06/dekanat.jpg);" data-stellar-background-ratio="0.5">
       <div class="overlay"></div>
       <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
           <div class="col-md-7 ftco-animate">
-          	<h2 class="subheading">Selamat datang di Pinjam Ruang</h2>
+          	<h2 class="subheading">Selamat datang di Pinjam Ruang Universitas Kirana</h2>
           	<h1 class="mb-4">Pinjam ruangan mudah dan cepat</h1>
             <p><a href="#" class="btn btn-primary">Pelajari lebih lanjut</a> <a href="#" class="btn btn-white">Hubungi kami</a></p>
           </div>
@@ -54,7 +54,7 @@
 									<div class="form-group">
 			    					<div class="input-wrap">
 			            		<div class="icon"><span class="ion-md-calendar"></span></div>
-			            		<input id="borrow_at" name="borrow_at" value="{{ old('borrow_at') }}" type="text" class="form-control appointment_date-check-in datetimepicker-input" placeholder="Tgl Mulai" data-toggle="datetimepicker" data-target="#borrow_at">
+			            		<input id="borrow_at" name="borrow_at" value="{{ old('borrow_at') }}" type="text" class="form-control appointment_date-check-in datetimepicker-input" placeholder="Tanggal Mulai" data-toggle="datetimepicker" data-target="#borrow_at">
 		            		</div>
 			    				</div>
 								</div>
@@ -62,7 +62,7 @@
 									<div class="form-group">
 			    					<div class="input-wrap">
 			            		<div class="icon"><span class="ion-md-calendar"></span></div>
-			            		<input id="until_at" name="until_at" value="{{ old('until_at') }}" type="text" class="form-control appointment_date-check-out datetimepicker-input" placeholder="Tgl Selesai" data-toggle="datetimepicker" data-target="#until_at">
+			            		<input id="until_at" name="until_at" value="{{ old('until_at') }}" type="text" class="form-control appointment_date-check-out datetimepicker-input" placeholder="Tanggal Selesai" data-toggle="datetimepicker" data-target="#until_at">
 		            		</div>
 			    				</div>
 								</div>
@@ -116,11 +116,11 @@
 	                      <div class="icon"><span class="fa fa-chevron-down"></span></div>
 	                      <select name="study_program" id="" class="form-control">
 	                      	<option value="" selected disabled>Prodi</option>
-	                      	<option value="teknik-informatika" @if(old('study_program') == 'teknik-informatika') selected @endif>Teknik Informatika (D3)</option>
-	                      	<option value="teknik-multimedia-dan-jaringan" @if(old('study_program') == 'teknik-multimedia-dan-jaringan') selected @endif>Teknik Multimedia & Jaringan (D4)</option>
-	                      	<option value="teknik-geomatika" @if(old('study_program') == 'teknik-geomatika') selected @endif>Teknik Geomatika (D3)</option>
-	                      	<option value="animasi" @if(old('study_program') == 'animasi') selected @endif>Animasi (D4)</option>
-	                      	<option value="rekayasa-keamanan-siber" @if(old('study_program') == 'rekayasa-keamanan-siber') selected @endif>Rekayasa Keamanan Siber (D4)</option>
+	                      	<option value="akuntansi" @if(old('study_program') == 'akuntansi') selected @endif>Akuntansi (S1)</option>
+	                      	<option value="bisnis digital" @if(old('study_program') == 'bisnis digital') selected @endif>Bisnis Digital (S1)</option>
+	                      	<option value="ekonomi islam" @if(old('study_program') == 'ekonomi islam') selected @endif>Ekonomi Islam (S1)</option>
+	                      	<option value="ilmu ekonomi" @if(old('study_program') == 'ilmu ekonomi') selected @endif>Ilmu Ekonomi (S1)</option>
+	                      	<option value="manajemen" @if(old('study_program') == 'manajemen') selected @endif>Manajemen (S1)</option>
 	                      </select>
 	                    </div>
 			              </div>
@@ -233,43 +233,43 @@
             <div class="carousel-testimony owl-carousel">
 							<div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(vendor/technext/vacation-rental/images/person_1.jpg)">
+                  <div class="user-img" style="background-image: url(https://www.dbl.id/uploads/teams/10626Kj7BR/51254tI5J8/51254FP61498e76b3f9a.jpg)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="fa fa-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Racky Henderson</p>
-                    <span class="position">Father</span>
+                    <p>peminjaman ruang di kampus jadi lebih mudah dan cepat</p>
+                    <p class="name">Risaly Claudia</p>
+                    <span class="position">Mahasiswi</span>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(vendor/technext/vacation-rental/images/person_2.jpg)">
+                  <div class="user-img" style="background-image: url(https://media.licdn.com/dms/image/D5603AQH-6mzlcdpkLQ/profile-displayphoto-shrink_400_400/0/1691580096605?e=1705536000&v=beta&t=7EQCBixU4wYNXUUjyrGzEaf4YgyC2OSyp2YNB94lk7Q)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="fa fa-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Henry Dee</p>
-                    <span class="position">Businesswoman</span>
+                    <p>keren</p>
+                    <p class="name">Kirana Yasmine</p>
+                    <span class="position">Mahasiswi</span>
                   </div>
                 </div>
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(vendor/technext/vacation-rental/images/person_3.jpg)">
+                  <div class="user-img" style="background-image: url(https://media.licdn.com/dms/image/C5603AQEBdvC871tGZg/profile-displayphoto-shrink_400_400/0/1635050662548?e=1706140800&v=beta&t=ZDQSRyzd6r2r1r8qiJqPBOTwL9A8ibf8efFO2vyUW1Y)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="fa fa-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Mark Huff</p>
-                    <span class="position">Businesswoman</span>
+                    <p>ekis mantap</p>
+                    <p class="name">Fariq Yusran</p>
+                    <span class="position">Mahasiswa</span>
                   </div>
                 </div>
               </div>
@@ -289,15 +289,15 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(vendor/technext/vacation-rental/images/person_1.jpg)">
+                  <div class="user-img" style="background-image: url(https://media.licdn.com/dms/image/C4D03AQHfcyVlepvUig/profile-displayphoto-shrink_800_800/0/1638012995286?e=2147483647&v=beta&t=kkpgggO-umgn34iQf7fS_1mAJ-hCyv0yM0RcdLdJIAU)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
                       <i class="fa fa-quote-left"></i>
                     </span>
-                    <p>Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts.</p>
-                    <p class="name">Ken Bosh</p>
-                    <span class="position">Businesswoman</span>
+                    <p>tetaplah belajar andes, kawan-kawan. karena the world is changing faster than we believe</p>
+                    <p class="name">Kayla An Najmi</p>
+                    <span class="position">Mahasiswi</span>
                   </div>
                 </div>
               </div>
@@ -541,11 +541,11 @@
                           <div class="select-wrap">
                   <select name="study_program" id="" class="form-control">
                       <option value="" selected disabled>Prodi</option>
-                      <option value="teknik-informatika">Teknik Informatika (D3)</option>
-                      <option value="teknik-multimedia-dan-jaringan">Teknik Multimedia & Jaringan (D4)</option>
-                      <option value="teknik-geomatika">Teknik Geomatika (D3)</option>
-                      <option value="animasi">Animasi (D4)</option>
-                      <option value="rekayasa-keamanan-siber">Rekayasa Keamanan Siber (D4)</option>
+                      <option value="akuntansi">Akuntansi (S1)</option>
+                      <option value="bisnis digital">Bisnis Digital (S1)</option>
+                      <option value="ekonomi islam">Ekonomi Islam (S1)</option>
+                      <option value="ilmu ekonomi">Ilmu Ekonomi (S1)</option>
+                      <option value="manajemen">Manajemen (S1)</option>
                   </select>
                 </div>
                   </div>
