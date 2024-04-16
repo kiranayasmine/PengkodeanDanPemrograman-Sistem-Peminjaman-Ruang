@@ -27,8 +27,20 @@ Tautan: https://github.com/vonsogt/pinjam-ruang
 
 Sebelum diedit:
 <img width="960" alt="Screenshot 2023-11-06 235553" src="https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/551d7229-8294-4cc0-8b5d-88418269f666">
-Backend:
-![image](https://user-images.githubusercontent.com/35516476/129230321-60cd0f5c-d4ce-450b-a96a-e16411b358df.png)
+![129230321-60cd0f5c-d4ce-450b-a96a-e16411b358df](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/36b8b8f4-b657-4fa5-8817-a410620d9251)
+
+Setelah diedit:
+![Screenshot 2024-04-16 181437](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/353bcc23-150f-401a-b09c-b574fe353fe9)
+![Screenshot 2024-04-16 181445](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/9b320617-8b45-4b18-b23a-959fad88423c)
+![Screenshot 2024-04-16 181454](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/bf9440e3-b020-441a-80dd-f0fb40c96172)
+![Screenshot 2024-04-16 181521](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/0d9be451-7a46-429b-aedc-e811a5e776d7)
+![Screenshot 2024-04-16 181534](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/c85a81f4-945b-4cf8-9bfc-4f89754f65fa)
+![Screenshot 2024-04-16 181544](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/29178c12-6768-4eeb-8cfc-092c521a8f08)
+![Screenshot 2024-04-16 181321](https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/885f0710-0215-4789-b601-60a2aaa0ac74)
+
+
+## ERD
+<img width="305" alt="Screenshot 2023-12-05 100513" src="https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/5c3465e8-c2a4-4733-a957-8c82af065a3a">
 
 ## Fitur
 
@@ -54,18 +66,6 @@ FRONTEND
 - [x] Menampilkan detail peminjam, tanggal mulai dan tanggal selesai disetiap list ruangan
 - [x] TU Jurusan IF bisa melihat semua status ruangan baik yang kosong maupun yang sudah dibooking. Kemudian TU juga bisa menyetujui ruangan yang sudah disetujui terlebih dahulu oleh Dosen. Jadi TU tidak akan menyetujui apabila belum ada persetujuan dari Dosen. Dan TU bisa mengubah status ruangan.
 - [x] Dosen bisa melihat ruangan yang sudah direquest oleh mahasiswanya dan menyetujui melalui menu di aplikasi.
-
-
-## Mulai
-
-Sebelum melakukan instalasi proyek `pinjam-ruang` ada baiknya perhatikan hal-hal berikut ini:
-
-### Prasyarat
-
-Sebelum menggunakan projek ini, diperlukanya:
-* [composer](https://getcomposer.org/)
-* [php](https://www.php.net/downloads.php)
-* [git](https://git-scm.com/)
 
 ### Instalasi
 
@@ -105,22 +105,6 @@ Sebelum menggunakan projek ini, diperlukanya:
 
 Lihat [open issues](https://github.com/vonsogt/pinjam-ruang/issues) untuk daftar fitur yang diusulkan (dan masalah yang diketahui).
 
-## Berkontribusi
-
-Kontribusi adalah yang membuat komunitas open source menjadi tempat yang luar biasa untuk belajar, menginspirasi, dan berkreasi. Setiap kontribusi yang Anda berikan ** sangat dihargai **.
-
 ## Lisensi
 
 `pinjam-ruang` berlisensi di bawah [MIT license](https://opensource.org/licenses/MIT).
-
-
-## Kontak
-
-Vonso - vonsogt18081999@gmail.com
-# SistemInformasiAkuntansi-Laundry
-# PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang
-# PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang
-# PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang
-# PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang
-# PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang
-# PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang
