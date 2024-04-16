@@ -1,18 +1,18 @@
 @extends('layouts.default')
 @section('content')
 
-    <div class="hero-wrap js-fullheight" style="background-image: url(https://feb.undip.ac.id/wp-content/uploads/2021/06/dekanat.jpg);" data-stellar-background-ratio="0.5">
-      <div class="overlay"></div>
-      <div class="container">
+    <div class="hero-wrap js-fullheight" style="background-image: url(https://media.gq-magazine.co.uk/photos/5d139a49bc4bf64ef07f0890/16:9/w_2560%2Cc_limit/Aerial-hp--GQ-25aug17_alamy_b.jpg);" data-stellar-background-ratio="0.5">
+    <div class="overlay"></div>
+    <div class="container">
         <div class="row no-gutters slider-text js-fullheight align-items-center justify-content-start" data-scrollax-parent="true">
-          <div class="col-md-7 ftco-animate">
-          	<h2 class="subheading">Selamat datang di Pinjam Ruang Universitas Kirana</h2>
-          	<h1 class="mb-4">Pinjam ruangan mudah dan cepat</h1>
-            <p><a href="#" class="btn btn-primary">Pelajari lebih lanjut</a> <a href="#" class="btn btn-white">Hubungi kami</a></p>
-          </div>
+            <div class="col-md-7 ftco-animate">
+                <h2 class="subheading" style="background-color: rgba(0, 0, 0, 0.35);">Selamat datang di Pinjam Ruang Universitas Maju Terus</h2>
+                <h1 class="mb-4">Pinjam ruangan mudah dan cepat</h1>
+                <p><a href="#" class="btn btn-primary">Pelajari lebih lanjut</a> <a href="#" class="btn btn-white">Hubungi kami</a></p>
+            </div>
         </div>
-      </div>
     </div>
+</div>
 
     <section id="form-pinjam-ruang" class="ftco-section ftco-book ftco-no-pt ftco-no-pb">
     	<div class="container">
@@ -247,7 +247,7 @@
               </div>
               <div class="item">
                 <div class="testimony-wrap d-flex">
-                  <div class="user-img" style="background-image: url(https://media.licdn.com/dms/image/D5603AQH-6mzlcdpkLQ/profile-displayphoto-shrink_400_400/0/1691580096605?e=1705536000&v=beta&t=7EQCBixU4wYNXUUjyrGzEaf4YgyC2OSyp2YNB94lk7Q)">
+                  <div class="user-img" style="background-image: url(https://media.licdn.com/dms/image/D5603AQH-6mzlcdpkLQ/profile-displayphoto-shrink_200_200/0/1691580096605?e=2147483647&v=beta&t=M960Gj9Wk1NJKLRqyrXcLX6dsLT3ofnQNaEfXlTyXKM)">
                   </div>
                   <div class="text pl-4">
                   	<span class="quote d-flex align-items-center justify-content-center">
@@ -404,7 +404,7 @@
 			</div>
 		</section>
 
-		<section class="ftco-intro" style="background-image: url(vendor/technext/vacation-rental/images/bg_1.jpg);" data-stellar-background-ratio="0.5">
+		<section class="ftco-intro" style="background-image: url(https://cdn.britannica.com/85/13085-050-C2E88389/Corpus-Christi-College-University-of-Cambridge-England.jpg);" data-stellar-background-ratio="0.5">
 			<div class="overlay"></div>
 			<div class="container">
 				<div class="row justify-content-center">
