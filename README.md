@@ -26,8 +26,7 @@ Tautan: https://github.com/vonsogt/pinjam-ruang
 ## Perbandingan
 
 Sebelum diedit:
-<img width="960" alt="Screenshot 2023-11-06 235553" src="https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/f3809f50-2028-4282-859c-8b874e61026f">
-![image](https://user-images.githubusercontent.com/35516476/129226360-d8185ae7-9163-4d04-a6d8-44df18e28704.png)
+<img width="960" alt="Screenshot 2023-11-06 235553" src="https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/551d7229-8294-4cc0-8b5d-88418269f666">
 Backend:
 ![image](https://user-images.githubusercontent.com/35516476/129230321-60cd0f5c-d4ce-450b-a96a-e16411b358df.png)
 
