@@ -12,21 +12,6 @@
   </p>
 </p>
 
-## Daftar Isi
-
-* [Tentang Pinjam Ruang](#tentang-pinjam-ruang)
-  * [Dibuat Menggunakan](#dibuat-menggunakan)
-* [Demo](#demo)
-* [Gambar](#gambar)
-* [Fitur](#fitur)
-* [Mulai](#mulai)
-  * [Prasyarat](#prasyarat)
-  * [Instalasi](#instalasi)
-* [Petunjuk](#petunjuk)
-* [Berkontribusi](#berkontribusi)
-* [Lisensi](#lisensi)
-* [Kontak](#kontak)
-
 ## Tentang pinjam-ruang
 
 Pinjam Ruang merupakan sebuah aplikasi berbasis website yang bertujuan untuk mempermudah peminjaman ruangan pada suatu universitas/kampus.
@@ -34,15 +19,14 @@ Pinjam Ruang merupakan sebuah aplikasi berbasis website yang bertujuan untuk mem
 ### Dibuat Menggunakan
 * [Laravel](https://laravel.com/)
 
-## Demo
+## Referensi GitHub
 
-Tautan: http://pinjam-ruang.batam-jasa.online/admin
+Tautan: https://github.com/vonsogt/pinjam-ruang
 
-Akun: demo/demo123
+## Perbandingan
 
-## Gambar
-
-Frontend:
+Sebelum diedit:
+<img width="960" alt="Screenshot 2023-11-06 235553" src="https://github.com/kiranayasmine/PengkodeanDanPemrograman-Sistem-Peminjaman-Ruang/assets/152698796/f3809f50-2028-4282-859c-8b874e61026f">
 ![image](https://user-images.githubusercontent.com/35516476/129226360-d8185ae7-9163-4d04-a6d8-44df18e28704.png)
 Backend:
 ![image](https://user-images.githubusercontent.com/35516476/129230321-60cd0f5c-d4ce-450b-a96a-e16411b358df.png)
